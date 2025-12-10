@@ -1,4 +1,4 @@
-# Projecte intermodular Sistemes microinformàtics i xarxes
+# Projecte intermodular Sistemes microinformàtics i xarxes 
 
 2º SMX
 
