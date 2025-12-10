@@ -8,7 +8,7 @@ La asignatura de Aplicaciones Web en 2º de SMR va, básicamente, de entender c�
 
 
 
-CONTENIDOS
+CONTENIDOS:
 
 https://aules.edu.gva.es/fp/mod/resource/view.php?id=8974884
 https://aules.edu.gva.es/fp/pluginfile.php/12446024/mod_resource/content/1/Tarea%202.2%20-%20Correo%20web.pdf
