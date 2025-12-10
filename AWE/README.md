@@ -4,7 +4,8 @@
 
 👨🏽‍🏫 SERGIO LAGUNA OLMO
 
-La asignatura de Aplicaciones Web en 2º de SMR va, básicamente, de entender cómo funcionan las páginas web y aprender a crear las tuyas propias. Empiezas con lo más básico: HTML, CSS y un poco de JavaScript. También te enseñan a usar herramientas como WordPress para montar una web sin complicarte mucho. Al final, sabes diseñar una página, darle estilo y publicarla en un servidor para que cualquiera pueda verla.
+La asignatura de Aplicaciones Web en 2º de SMR va, básicamente, de entender cómo funcionan las páginas web y aprender a crear las tuyas propias. Al final, sabes diseñar una página, darle estilo y publicarla en un servidor para que cualquiera pueda verla.
+
 
 
 CONTENIDOS
