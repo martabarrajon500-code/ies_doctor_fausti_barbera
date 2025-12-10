@@ -1,0 +1,5 @@
+# Model Optatiu
+
+2º SMX
+
+🧑🏻‍🏫 PILAR MARIA PERELLO PASCUAL
